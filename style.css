@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.home{
+    background-image: url(images/home-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height:500px;
+}
+.two{
+    padding-top: 160px;
+
+}
+.four{
+    padding-top: 160px;
+}
+
+
+
+
+
